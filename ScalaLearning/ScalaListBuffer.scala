@@ -48,6 +48,5 @@ object ScalaListBuffer {
     array.sortBy(x => (x.length, x.head))
     array.sorted
 
-
   }
 }
