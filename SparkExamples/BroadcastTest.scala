@@ -26,7 +26,7 @@ object BroadcastTest {
       observedSizes.collect().foreach(println)
       println("Iteration %d took %.0f milliseconds".format(i, (System.nanoTime - startTime) / 1E6))
     }
-
+	
     sc.stop()
     spark.stop()
   }
