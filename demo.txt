@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 master
 dev
 dev2
 master
 master
 dev
+=======
+master
+>>>>>>> dev
