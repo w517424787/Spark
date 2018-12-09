@@ -1,5 +1,1 @@
 master
-dev
-dev
-master
-dev
