@@ -2,3 +2,4 @@ master
 dev
 dev
 dev
+master
