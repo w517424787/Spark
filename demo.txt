@@ -1,5 +1,4 @@
 master
-sfdafdsfafadf
-fafasdfdasf
-fafdsafa
-fafaffa
+spark
+hadoop
+kafka
